@@ -38,6 +38,7 @@
   <summary><h3 align="left">My Github Stats</h3></summary>
   
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en" alt="danjkim21" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danjkim21&theme=dark" alt="danjkim21" /></p>
 </details>
 
 <details>

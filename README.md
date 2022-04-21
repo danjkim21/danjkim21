@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Daniel!</h1>
 <h3 align="left">I'm a full stack web developer based in Portland, Maine.</h3>
 
-> From program director to developer, soft skills like adaptability, creativity, and curiosity have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been innovating to determine efficient solutions to complex problems. I excel in managing multiple projects and tackling new tasks as priorities shift. 
+> From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems. I excel in managing multiple projects and tackling new tasks as priorities shift. 
 > Looking to bring my software development skills to a tech company with global reach.
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Node**

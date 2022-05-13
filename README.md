@@ -3,15 +3,11 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
 
 <p align="center">
-  <a href="https://daniel-jkim.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=feeddf&style=for-the-badge&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/danieljayyoungkim/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=feeddf&style=for-the-badge&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/devdanielk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=feeddf&style=for-the-badge&logo=twitter&logo-color=white"/>
-  </a>
+  <a href="https://daniel-jkim.com/"><img src="https://img.shields.io/badge/website-feeddf?&style=for-the-badge&logo=react&logoColor=ed5c06"></a>
+  <a href="mailto:dan.jkim21@gmail.com"><img src="https://img.shields.io/badge/email-feeddf?style=for-the-badge&logo=gmail&logoColor=f68d0e"></a>
+  <a href="https://www.linkedin.com/in/danieljayyoungkim/"><img src="https://img.shields.io/badge/Linkedin-feeddf?&style=for-the-badge&logo=linkedin&logoColor=f68d0e"></a>
+  <a href="https://twitter.com/devdanielk"><img src="https://img.shields.io/badge/TWITTER-feeddf?&style=for-the-badge&logo=twitter&logoColor=ffc316"></a>
+
 </p>
 
 <h3 align="left">I'm a full stack web developer based in Portland, Maine.</h3>

@@ -1,4 +1,19 @@
-<h1 align="left">Hi 👋, I'm Daniel!</h1>
+<img src="images/cover.png" width="100%">
+
+<h1 align="center">Hi 👋, I'm Daniel!</h1>
+
+<p align="center">
+  <a href="https://daniel-jkim.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=feeddf&style=for-the-badge&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/danieljayyoungkim/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=feeddf&style=for-the-badge&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/devdanielk" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=feeddf&style=for-the-badge&logo=twitter&logo-color=white"/>
+  </a>
+</p>
+
 <h3 align="left">I'm a full stack web developer based in Portland, Maine.</h3>
 
 > From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems. I excel in managing multiple projects and tackling new tasks as priorities shift. 
@@ -10,25 +25,19 @@
 - ⚡ Fun fact, **before software engineering, I used to work in nuclear security and nonproliferation policy!**
 <br>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devdanielk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devdanielk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danieljayyoungkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danieljayyoungkim/" height="30" width="40" /></a>
-</p>
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=feeddf&style=flat-square&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=feeddf&style=flat-square&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=feeddf&style=flat-square&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=feeddf&style=flat-square&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=feeddf&style=flat-square&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=feeddf&style=flat-square&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=feeddf&style=flat-square&logo=figma"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=feeddf&style=flat-square&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=feeddf&style=flat-square&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=feeddf&style=flat-square&logo=git"/>
 </p>
 <br>
 

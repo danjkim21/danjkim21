@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **MongoDB, Express, React, Node**
 - 👨‍💻 All of my projects are available at **[https://daniel-jkim.com/](https://daniel-jkim.com/)**
 - 📫 How to reach me **dan.jkim21@gmail.com**
-- ⚡ Fun fact, **before software engineering, I used to work in nuclear security and nonproliferation policy!**
+- ⚡ Fun fact, **before software engineering, I used to work in nuclear energy policy!**
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,17 +37,11 @@
 </p>
 <br>
 
-***
+<hr>
 
 <details>
-  <summary><h3 align="left">My Github Stats</h3></summary>
-  
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en" alt="danjkim21" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danjkim21&theme=dark" alt="danjkim21" /></p>
-</details>
+  <summary><h2 align="left">My Github Stats</h3></summary>
 
-<details>
-  <summary><h3 align="left">Most Used Languages:</h3></summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en&layout=compact" alt="danjkim21" />
+  <a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en" width="50%" alt="danjkim21's GitHub stats" /></a><a href="http://www.github.com/danjkim21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danjkim21&theme=dark" width="50%"/></a>
+  <a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en&layout=compact" alt="danjkim21"  width="50%"/></a>
 </details>

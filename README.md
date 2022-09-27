@@ -12,14 +12,14 @@
 
 <h3 align="left">I'm a full stack web developer based in Portland, Maine.</h3>
 
-> From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems. I excel in managing multiple projects and tackling new tasks as priorities shift. 
+> From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems. I excel in managing multiple projects and tackling new tasks as priorities shift.
 > Looking to bring my software development skills to a tech company with global reach.
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Node**
 - 👨‍💻 All of my projects are available at **[https://daniel-jkim.com/](https://daniel-jkim.com/)**
 - 📫 How to reach me **dan.jkim21@gmail.com**
 - ⚡ Fun fact, **before software engineering, I used to work in nuclear energy policy!**
-<br>
+  <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -37,11 +37,45 @@
 </p>
 <br>
 
+<h2>Projects</h2>
+
+<div align="center">
+<table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Bookly</h3>
+          <p align="center">
+             <a href="https://bookly-crud-app.herokuapp.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/bookly-app/blob/main/public/images/bookly-demo.gif?raw=true" alt="project example"/> </a>
+		<a href="https://github.com/danjkim21/bookly-app" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://bookly-crud-app.herokuapp.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+		Discover new books and save them to your reading playlist!
+            </p>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">Outpost</h3>
+          <p align="center">
+            <a href="https://outpost-trips.herokuapp.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/outpost-app/blob/main/public/images/outpost-demo.gif?raw=true" alt="project example"/> </a>
+		<a href="https://github.com/danjkim21/outpost-app" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://outpost-trips.herokuapp.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+            Log in and keep track of your upcoming trips, travel destinations, and activities!
+            </p>
+          </p>
+        </td>
+    </tr>
+    <tr>
+        </tr>
+</table>
+</div>
+
 <hr>
 
 <details>
   <summary><h2 align="left">My Github Stats</h3></summary>
 
-  <a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en" width="50%" alt="danjkim21's GitHub stats" /></a><a href="http://www.github.com/danjkim21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danjkim21&theme=dark" width="50%"/></a>
-  <a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en&layout=compact" alt="danjkim21"  width="50%"/></a>
+<a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en" width="50%" alt="danjkim21's GitHub stats" /></a><a href="http://www.github.com/danjkim21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danjkim21&theme=dark" width="50%"/></a>
+<a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en&layout=compact" alt="danjkim21"  width="50%"/></a>
+
 </details>

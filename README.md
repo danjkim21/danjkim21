@@ -77,6 +77,17 @@
             </p>
           </p>
         </td>
+        <td width="50%">
+          <h3 align="center">Calm. Space</h3>
+          <p align="center">
+             <a href="https://danjkim21.github.io/space-image-generator/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/space-image-generator/blob/main/img/space-tool-demo-min.gif?raw=true" alt="project example"/> </a>
+		<a href="https://github.com/danjkim21/space-image-generator" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://danjkim21.github.io/space-image-generator/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+		A minimal yet elegant web application that that displays NASA's Astronomy Picture of the Day.
+            </p>
+          </p>
+        </td>
 
   </tr>
 </table>

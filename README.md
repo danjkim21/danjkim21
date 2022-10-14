@@ -45,9 +45,9 @@
         <td width="50%">
           <h3 align="center">Bookly</h3>
           <p align="center">
-             <a href="https://bookly-crud-app.herokuapp.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/bookly-app/blob/main/public/images/bookly-demo.gif?raw=true" alt="project example"/> </a>
+             <a href="https://bookly.cyclic.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/bookly-app/blob/main/public/images/bookly-demo.gif?raw=true" alt="project example"/> </a>
 		<a href="https://github.com/danjkim21/bookly-app" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://bookly-crud-app.herokuapp.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+		<a href="https://bookly.cyclic.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
 		Discover new books and save them to your reading playlist!
             </p>

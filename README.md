@@ -12,10 +12,10 @@
 
 <h3 align="left">I'm a full stack web developer based in Portland, Maine.</h3>
 
-> From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems. I excel in managing multiple projects and tackling new tasks as priorities shift.
-> Looking to bring my software development skills to a tech company with global reach.
+> From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems.
+> Looking to bring my software development skills to a product oriented tech company with global reach 🌎.
 
-- 🌱 I’m currently learning **MongoDB, Express, React, Node**
+- 🌱 I’m currently learning **React, Next.JS and Tailwind CSS**
 - 👨‍💻 All of my projects are available at **[https://daniel-jkim.com/](https://daniel-jkim.com/)**
 - 📫 How to reach me **dan.jkim21@gmail.com**
 - ⚡ Fun fact, **before software engineering, I used to work in nuclear energy policy!**

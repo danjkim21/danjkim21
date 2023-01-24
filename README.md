@@ -80,7 +80,7 @@
         <td width="50%">
           <h3 align="center">arDB</h3>
           <p align="center">
-             <a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/portfolio-daniel-kim/blob/main/src/assets/arDB-screenshot.jpeg?raw=true" alt="project example"/> </a>
+             <a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/adv-nuclear-reactor-api-v2/blob/main/images/arDB-demo.gif?raw=true" alt="project example"/> </a>
 		<a href="https://github.com/danjkim21/adv-nuclear-reactor-api-v2" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">

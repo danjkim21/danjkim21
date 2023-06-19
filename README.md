@@ -15,7 +15,7 @@
 > From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems.
 > Looking to bring my software development skills to a product oriented tech company with global reach 🌎.
 
-- 🌱 I’m currently learning **Typescript and Tailwind CSS**
+- 🌱 I’m currently learning **Typescript and Next.JS**
 - 👨‍💻 All of my projects are available at **[https://daniel-jkim.com/](https://daniel-jkim.com/)**
 - 📫 How to reach me **dan.jkim21@gmail.com**
 - ⚡ Fun fact, **before software engineering, I used to work in nuclear energy policy!**
@@ -28,12 +28,16 @@
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=feeddf&style=flat-square&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=feeddf&style=flat-square&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=feeddf&style=flat-square&logo=react"/>
+		<img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=feeddf&style=flat-square&logo=redux"/>
+		<img src="https://img.shields.io/static/v1?label=|&message=AWS-AMPLIFY&color=feeddf&style=flat-square&logo=awsamplify"/>
+		<br>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=feeddf&style=flat-square&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=feeddf&style=flat-square&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=feeddf&style=flat-square&logo=figma"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=feeddf&style=flat-square&logo=mongodb"/>
+	  <img src="https://img.shields.io/static/v1?label=|&message=MONGOOSE&color=feeddf&style=flat-square&logo=mongoose"/>		
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=feeddf&style=flat-square&logo=express"/>
+		<br>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=feeddf&style=flat-square&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=feeddf&style=flat-square&logo=figma"/>
 </p>
 <br>
 
@@ -41,6 +45,31 @@
 
 <div align="center">
 <table>
+	<tr>
+	<td width="50%">
+          <h3 align="center">arDB</h3>
+          <p align="center">
+             <a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/adv-nuclear-reactor-api-v2/blob/main/images/arDB-demo.gif?raw=true" alt="project example"/> </a>
+		<a href="https://github.com/danjkim21/adv-nuclear-reactor-api-v2" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+		A RESTful API containing web scraped data of advanced nuclear reactor designs.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Portfolio Site</h3>
+          <p align="center">
+             <a href="https://daniel-jkim.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/portfolio-daniel-kim/blob/main/src/assets/images/portfolio-demo.gif?raw=true" alt="project example"/> </a>
+		<a href="https://github.com/danjkim21/portfolio-daniel-kim" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://daniel-jkim.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+		My React.js portfolio website. Have a look!
+            </p>
+          </p>
+        </td>
+
+  </tr>
       <tr>
         <td width="50%">
           <h3 align="center">Bookly</h3>
@@ -65,31 +94,6 @@
           </p>
         </td>
     </tr>
-          <tr>
-        <td width="50%">
-          <h3 align="center">Portfolio Site</h3>
-          <p align="center">
-             <a href="https://daniel-jkim.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/portfolio-daniel-kim/blob/main/src/assets/images/portfolio-demo.gif?raw=true" alt="project example"/> </a>
-		<a href="https://github.com/danjkim21/portfolio-daniel-kim" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://daniel-jkim.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
-            <p align="center">
-		My React.js portfolio website. Have a look!
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">arDB</h3>
-          <p align="center">
-             <a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/adv-nuclear-reactor-api-v2/blob/main/images/arDB-demo.gif?raw=true" alt="project example"/> </a>
-		<a href="https://github.com/danjkim21/adv-nuclear-reactor-api-v2" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
-            <p align="center">
-		A RESTful API containing web scraped data of advanced nuclear reactor designs.
-            </p>
-          </p>
-        </td>
-
-  </tr>
 </table>
 </div>
 

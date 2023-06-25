@@ -102,7 +102,6 @@
 <details>
   <summary><h2 align="left">My Github Stats</h3></summary>
 
-<a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en" width="50%" alt="danjkim21's GitHub stats" /></a><a href="http://www.github.com/danjkim21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danjkim21&theme=dark" width="50%"/></a>
 <a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en&layout=compact" alt="danjkim21"  width="50%"/></a>
 
 </details>

@@ -15,7 +15,7 @@
 > From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems.
 > Looking to bring my software development skills to a product oriented tech company with global reach 🌎.
 
-- 🌱 I’m currently learning **Typescript and Next.JS**
+- 🌱 I’m currently learning **Next.JS**
 - 👨‍💻 All of my projects are available at **[https://daniel-jkim.com/](https://daniel-jkim.com/)**
 - 📫 How to reach me **dan.jkim21@gmail.com**
 - ⚡ Fun fact, **before software engineering, I used to work in nuclear energy policy!**
@@ -27,9 +27,9 @@
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=feeddf&style=flat-square&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=feeddf&style=flat-square&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=feeddf&style=flat-square&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=feeddf&style=flat-square&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=feeddf&style=flat-square&logo=react"/>
-		<img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=feeddf&style=flat-square&logo=redux"/>
-		<img src="https://img.shields.io/static/v1?label=|&message=AWS-AMPLIFY&color=feeddf&style=flat-square&logo=awsamplify"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=feeddf&style=flat-square&logo=redux"/>
 		<br>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=feeddf&style=flat-square&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=feeddf&style=flat-square&logo=mongodb"/>

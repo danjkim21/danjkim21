@@ -12,7 +12,7 @@
 
 <h3 align="left">I'm a full stack web developer based in Philadelphia, PA.</h3>
 
-> From program director to developer, soft skills like **adaptability, creativity, and curiosity** have served me well. As a quick learner who enjoys experimenting with new technology, my touchstone has always been **innovating** to determine efficient solutions to complex problems.
+> As a technology agnostic software engineer with a background in program management, soft skills like adaptability, creativity, and curiosity have served me well. I am a quick learner who enjoys experimenting with new technologies. My touchstone has always been innovating to determine efficient solutions to complex problems.
 > Looking to bring my software development skills to a product oriented tech company with global reach 🌎.
 
 - 🌱 I’m currently learning **Next.JS**

@@ -15,7 +15,7 @@
 > As a technology agnostic software engineer with a background in program management, soft skills like adaptability, creativity, and curiosity have served me well. I am a quick learner who enjoys experimenting with new technologies. My touchstone has always been innovating to determine efficient solutions to complex problems.
 > Looking to bring my software development skills to a product oriented tech company with global reach 🌎.
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Next.JS, Drizzle ORM, Tailwind CSS, PostgreSQL**
 - 👨‍💻 All of my projects are available at **[https://daniel-jkim.com/](https://daniel-jkim.com/)**
 - 📫 How to reach me **dan.jkim21@gmail.com**
 - ⚡ Fun fact, **before software engineering, I used to work in nuclear energy policy!**

@@ -6,7 +6,7 @@
   <a href="https://daniel-jkim.com/"><img src="https://img.shields.io/badge/website-feeddf?&style=for-the-badge&logo=react&logoColor=ed5c06"></a>
   <a href="mailto:dan.jkim21@gmail.com"><img src="https://img.shields.io/badge/email-feeddf?style=for-the-badge&logo=gmail&logoColor=f68d0e"></a>
   <a href="https://www.linkedin.com/in/danieljayyoungkim/"><img src="https://img.shields.io/badge/Linkedin-feeddf?&style=for-the-badge&logo=linkedin&logoColor=f68d0e"></a>
-  <a href="https://twitter.com/devdanielk"><img src="https://img.shields.io/badge/TWITTER-feeddf?&style=for-the-badge&logo=twitter&logoColor=ffc316"></a>
+  <a href="https://twitter.com/devdanielk"><img src="https://img.shields.io/badge/TWITTER-feeddf?&style=for-the-badge&logo=x&logoColor=ffc316"></a>
 
 </p>
 
@@ -15,7 +15,7 @@
 > As a technology agnostic software engineer with a background in program management, soft skills like adaptability, creativity, and curiosity have served me well. I am a quick learner who enjoys experimenting with new technologies. My touchstone has always been innovating to determine efficient solutions to complex problems.
 > Looking to bring my software development skills to a product oriented tech company with global reach 🌎.
 
-- 🌱 I’m currently learning **Next.JS, Drizzle ORM, Tailwind CSS, PostgreSQL**
+- 🌱 I’m currently learning **Next.JS, PostgreSQL**
 - 👨‍💻 All of my projects are available at **[https://daniel-jkim.com/](https://daniel-jkim.com/)**
 - 📫 How to reach me **dan.jkim21@gmail.com**
 - ⚡ Fun fact, **before software engineering, I used to work in nuclear energy policy!**
@@ -100,8 +100,8 @@
 <hr>
 
 <details>
-  <summary><h2 align="left">My Github Stats</h3></summary>
+  <summary align="left">:zap: Github Stats</summary>
 
-<a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en&layout=compact" alt="danjkim21"  width="50%"/></a>
+<a href="http://www.github.com/danjkim21"><img src="https://dan-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&locale=en&hide=ejs&langs_count=8&layout=compact" alt="danjkim21's Github Stats"  width="50%"/></a>
 
 </details>

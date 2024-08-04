@@ -99,9 +99,6 @@
 
 <hr>
 
-<details>
-  <summary align="left">:zap: Github Stats</summary>
+<summary align="left">:zap: Github Stats</summary>
 
 <a href="http://www.github.com/danjkim21"><img src="https://dan-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&locale=en&hide=ejs&langs_count=8&layout=compact" alt="danjkim21's Github Stats"  width="50%"/></a>
-
-</details>
